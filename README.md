@@ -149,6 +149,5 @@ Titanic_Project/
 ## Author
 
 Aniude Paul Ifeanyi
-
 Statistics Student | Data Scientist & Machine Learning Enthusiast
 GitHub: https://github.com/Aniude-tech
