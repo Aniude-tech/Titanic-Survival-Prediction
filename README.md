@@ -109,6 +109,17 @@ The performance of different machine learning models was evaluated using multipl
 
 - Other models (SVM, MLP, Decision Tree) showed competitive but slightly lower performance.
 
+## Visualizations
+
+### Confusion Matrix
+![Confusion Matrix](figures/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](figures/roc_curve.png)
+
+### Feature Importance
+![Feature Importance](figures/feature_importance.png)
+
 ## Technologies Used
 
 * Python
