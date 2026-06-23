@@ -95,6 +95,20 @@ Additionally, hyperparameter tuning was performed on the Random Forest model usi
 * Sex, fare, age, and Pclass were among the most influential factors affecting survival.
 * Simpler linear models performed competitively against more complex machine learning models.
 
+## Results Summary
+
+The performance of different machine learning models was evaluated using multiple metrics:
+
+- Logistic Regression achieved the best overall balance with:
+  - Accuracy: 78.77%
+  - F1 Score: 72.06%
+
+- Random Forest improved significantly after hyperparameter tuning using GridSearchCV:
+  - Accuracy: 78.77%
+  - F1 Score: 70.77%
+
+- Other models (SVM, MLP, Decision Tree) showed competitive but slightly lower performance.
+
 ## Technologies Used
 
 * Python
