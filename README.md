@@ -113,7 +113,7 @@ The performance of different machine learning models was evaluated using multipl
 ## Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](figures/confusion_matrix_RF.png)
 
 ### ROC Curve
 ![ROC Curve](figures/Roc_RF_CV.png)
